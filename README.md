@@ -1,4 +1,3 @@
-<img width="439" height="209" alt="Screenshot 2026-10-17 170709" src="https://github.com/user-attachments/assets/83dc41b0-c221-41c3-b149-de5cb3d694c2" />
 # basic-network-connectivity-test
 A beginner-friendly hands-on lab exploring network connectivity between two devices using the ping command
 # Basic Network Connectivity Testing Using Ping
